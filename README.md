@@ -11,7 +11,8 @@ cd fullstack-greet-frontend
 # Install dependencies
 npm install
 
-2. Run the Development Server
+# Run the Development Server
+
 npm  run dev
 
 
