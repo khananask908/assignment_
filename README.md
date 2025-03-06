@@ -6,7 +6,7 @@ This project is a simple full-stack web application built using Node.js (Express
 
 # Clone the repository
 git clone https://github.com/khananask908/assignment_.git
-cd fullstack-greet-frontend
+
 
 # Install dependencies
 npm install
