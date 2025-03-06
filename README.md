@@ -17,8 +17,8 @@ Deployed on Render (backend) and Vercel (frontend).
 1. Setup & Install
 
 # Clone the repository
-git clone https://github.com/your-username/fullstack-greet-backend.git
-cd fullstack-greet-backend
+git clone (https://github.com/khananask908/assignment_.git)
+
 
 # Install dependencies
 npm install
